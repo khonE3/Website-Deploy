@@ -12,10 +12,11 @@
 สรุปผลงานและเอกสารที่เปิดใช้งานจริง (Production)
 
 | Project Name | Description | Status | Link |
-| :--- | :--- | :---: | :--- |
+| :--- | :--- | :--- | :--- |
 | **✨ Portfolio** | เว็บไซต์รวบรวมผลงาน ประวัติ และทักษะส่วนตัว | 🟢 Live | [Visit Site ↗️](https://portfolio-gotjitag.vercel.app) |
-| **📈 Growth Tracker** | ระบบติดตามความคืบหน้าและการเติบโตส่วนตัว | 🟢 Live | [Track Growth ↗️](https://growth-tracker-roan.vercel.app) |
-| **🎮 Tic Tac Toe** | เกม Ox ที่สามารถปรับแต่งรูปแบบการเล่นได้ | 🟢 Live | [Play Now ↗️](https://tic-tac-toe-customize.web.app/) |
+| **🏥 Smyth Clinic Demo** | ระบบจองคิวและจัดการข้อมูลคลินิก (Demo) | 🟢 Live | [View Demo ↗️](https://smyth-demo.vercel.app) |
+| **🎮 Tic Tac Toe** | เกม XO ที่เล่นได้หลายคน พร้อมระบบปรับขนาดกระดานได้อิสระ | 🟢 Live | [Play Now ↗️](https://tic-tac-toe-customize.web.app/) |
+| **📈 Growth Tracker** | ระบบติดตามความคืบหน้าและการเติบโตส่วนตัว | 🔴 Maintenance | [Link ↗️](https://growth-tracker-psi.vercel.app/) |
 | **🔗 Restful API** | เอกสารและระบบ API สำหรับจัดการข้อมูล | 📚 Docs | [Read Docs ↗️](https://restful-api-ten.vercel.app) |
 | **📊 MongoDB Summarize** | สรุปเทคนิคและวิธีการใช้งาน MongoDB | 📚 Docs | [Read Guide ↗️](https://mongo-db-summarize.vercel.app) |
 | **⚡ GitHub Actions** | คู่มือการทำ CI/CD และการจัดการ Workflow | 📚 Docs | [Read Guide ↗️](https://khone3.github.io/GitHub-Actions/) |
@@ -27,7 +28,9 @@
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232d.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
