@@ -15,6 +15,7 @@
 | :--- | :--- | :--- | :--- |
 | **✨ Portfolio** | เว็บไซต์รวบรวมผลงาน ประวัติ และทักษะส่วนตัว | 🟢 Live | [Visit Site ↗️](https://portfolio-gotjitag.vercel.app) |
 | **🏥 Smyth Clinic Demo** | ระบบจองคิวและจัดการข้อมูลคลินิก (Demo) | 🟢 Live | [View Demo ↗️](https://smyth-demo.vercel.app) |
+| **🎲 Red or Black Gacha** | โปรเจกต์จำลองการจับใบดำใบแดงสุดลุ้นระทึก | 🟢 Live | [Try Luck ↗️](https://red-or-black-gacha.vercel.app/) |
 | **🎮 Tic Tac Toe** | เกม XO ที่เล่นได้หลายคน พร้อมระบบปรับขนาดกระดานได้อิสระ | 🟢 Live | [Play Now ↗️](https://tic-tac-toe-customize.web.app/) |
 | **📈 Growth Tracker** | ระบบติดตามความคืบหน้าและการเติบโตส่วนตัว | 🔴 Maintenance | [Link ↗️](https://growth-tracker-psi.vercel.app/) |
 | **🔗 Restful API** | เอกสารและระบบ API สำหรับจัดการข้อมูล | 📚 Docs | [Read Docs ↗️](https://restful-api-ten.vercel.app) |
@@ -44,4 +45,4 @@
 [![Portfolio](https://img.shields.io/badge/My%20Portfolio-000?style=for-the-badge&logo=vercel)](https://portfolio-gotjitag.vercel.app)
 
 ---
-*Last updated: 2026-03-11*
+*Last updated: 2026-04-09*
