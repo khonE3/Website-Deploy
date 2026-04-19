@@ -13,15 +13,15 @@
 
 | Project Name | Description | Status | Link |
 | :--- | :--- | :--- | :--- |
-| **✨ Portfolio** | เว็บไซต์รวบรวมผลงาน ประวัติ และทักษะส่วนตัว | 🟢 Live | [Visit Site ↗️](https://portfolio-gotjitag.vercel.app) |
-| **🏥 Smyth Clinic Demo** | ระบบจองคิวและจัดการข้อมูลคลินิก (Demo) | 🟢 Live | [View Demo ↗️](https://smyth-demo.vercel.app) |
-| **🎲 Red or Black Gacha** | โปรเจกต์จำลองการจับใบดำใบแดงสุดลุ้นระทึก | 🟢 Live | [Try Luck ↗️](https://red-or-black-gacha.vercel.app/) |
-| **🎮 Tic Tac Toe** | เกม XO ที่เล่นได้หลายคน พร้อมระบบปรับขนาดกระดานได้อิสระ | 🟢 Live | [Play Now ↗️](https://tic-tac-toe-customize.web.app/) |
-| **📈 Growth Tracker** | ระบบติดตามความคืบหน้าและการเติบโตส่วนตัว | 🔴 Maintenance | [Link ↗️](https://growth-tracker-psi.vercel.app/) |
-| **🔗 Restful API** | เอกสารและระบบ API สำหรับจัดการข้อมูล | 📚 Docs | [Read Docs ↗️](https://restful-api-ten.vercel.app) |
-| **📊 MongoDB Summarize** | สรุปเทคนิคและวิธีการใช้งาน MongoDB | 📚 Docs | [Read Guide ↗️](https://mongo-db-summarize.vercel.app) |
-| **⚡ GitHub Actions** | คู่มือการทำ CI/CD และการจัดการ Workflow | 📚 Docs | [Read Guide ↗️](https://khone3.github.io/GitHub-Actions/) |
-| **🅱️ Bootstrap 4** | สรุปพื้นฐานและการใช้งาน Bootstrap 4 Framework | 📚 Docs | [Read Guide ↗️](https://khone3.github.io/Bootstrap-4/) |
+| **✨ Portfolio** | เว็บไซต์รวบรวมผลงาน ประวัติ และทักษะส่วนตัว | 🟢 Live | <a href="https://portfolio-gotjitag.vercel.app" target="_blank">Visit Site ↗️</a> |
+| **🏥 Smyth Clinic Demo** | ระบบจองคิวและจัดการข้อมูลคลินิก (Demo) | 🟢 Live | <a href="https://smyth-demo.vercel.app" target="_blank">View Demo ↗️</a> |
+| **🎲 Red or Black Gacha** | โปรเจกต์จำลองการจับใบดำใบแดงสุดลุ้นระทึก | 🟢 Live | <a href="https://red-or-black-gacha.vercel.app/" target="_blank">Try Luck ↗️</a> |
+| **🎮 Tic Tac Toe** | เกม XO ที่เล่นได้หลายคน พร้อมระบบปรับขนาดกระดานได้อิสระ | 🟢 Live | <a href="https://tic-tac-toe-customize.web.app/" target="_blank">Play Now ↗️</a> |
+| **📈 Growth Tracker** | ระบบติดตามความคืบหน้าและการเติบโตส่วนตัว | 🔴 Maintenance | <a href="https://growth-tracker-psi.vercel.app/" target="_blank">Link ↗️</a> |
+| **🔗 Restful API** | เอกสารและระบบ API สำหรับจัดการข้อมูล | 📚 Docs | <a href="https://restful-api-ten.vercel.app" target="_blank">Read Docs ↗️</a> |
+| **📊 MongoDB Summarize** | สรุปเทคนิคและวิธีการใช้งาน MongoDB | 📚 Docs | <a href="https://mongo-db-summarize.vercel.app" target="_blank">Read Guide ↗️</a> |
+| **⚡ GitHub Actions** | คู่มือการทำ CI/CD และการจัดการ Workflow | 📚 Docs | <a href="https://khone3.github.io/GitHub-Actions/" target="_blank">Read Guide ↗️</a> |
+| **🅱️ Bootstrap 4** | สรุปพื้นฐานและการใช้งาน Bootstrap 4 Framework | 📚 Docs | <a href="https://khone3.github.io/Bootstrap-4/" target="_blank">Read Guide ↗️</a> |
 
 ---
 
@@ -43,8 +43,8 @@
 ## 📱 Connect with Me
 หากคุณสนใจร่วมงานหรืออยากแลกเปลี่ยนความรู้เรื่องโค้ด ติดต่อผมได้ที่นี่ครับ:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/gotjitag/)
-[![Portfolio](https://img.shields.io/badge/My%20Portfolio-000?style=for-the-badge&logo=vercel)](https://portfolio-gotjitag.vercel.app)
+<a href="https://www.instagram.com/gotjitag/" target="_blank">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
+<a href="https://portfolio-gotjitag.vercel.app" target="_blank">![Portfolio](https://img.shields.io/badge/My%20Portfolio-000?style=for-the-badge&logo=vercel)</a>
 
 ---
 *Last updated: 2026-04-20*
