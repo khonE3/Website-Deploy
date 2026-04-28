@@ -1,5 +1,5 @@
 # 🚀 My Project & Learning Hub
-พื้นที่รวบรวม Web Applications และคลังความรู้ส่วนตัวใน Software Development
+พื้นที่รวบรวม Web Applications และคลังความรู้ส่วนตัว พัฒนาด้วยความหลงใหลใน Software Development
 
 ---
 
@@ -13,20 +13,20 @@
 
 | Project Name | Description | Status | Link |
 | :--- | :--- | :--- | :--- |
-| **✨ Portfolio** | เว็บไซต์รวบรวมผลงาน ประวัติ และทักษะส่วนตัว | 🟢 Live | <a href="https://portfolio-gotjitag.vercel.app" target="_blank">Visit Site ↗️</a> |
-| **🏥 Smyth Clinic Demo** | ระบบจองคิวและจัดการข้อมูลคลินิก (Demo) | 🟢 Live | <a href="https://smyth-demo.vercel.app" target="_blank">View Demo ↗️</a> |
-| **🎲 Red or Black Gacha** | โปรเจกต์จำลองการจับใบดำใบแดงสุดลุ้นระทึก | 🟢 Live | <a href="https://red-or-black-gacha.vercel.app/" target="_blank">Try Luck ↗️</a> |
-| **🎮 Tic Tac Toe** | เกม XO ที่เล่นได้หลายคน พร้อมระบบปรับขนาดกระดานได้อิสระ | 🟢 Live | <a href="https://tic-tac-toe-customize.web.app/" target="_blank">Play Now ↗️</a> |
-| **📈 Growth Tracker** | ระบบติดตามความคืบหน้าและการเติบโตส่วนตัว | 🔴 Maintenance | <a href="https://growth-tracker-psi.vercel.app/" target="_blank">Link ↗️</a> |
-| **🍃 Spring** | คู่มือการพัฒนา Java Application ด้วย Spring Framework | 📚 Docs | <a href="https://khone3.github.io/Spring/" target="_blank">Read Guide ↗️</a> |
-| **❄️ Hibernate** | สรุปการใช้งาน ORM และการจัดการ Database ด้วย Hibernate | 📚 Docs | <a href="https://khone3.github.io/Hibernate/" target="_blank">Read Guide ↗️</a> |
-| **🏹 Struts2** | เรียนรู้โครงสร้างและการทำ Web Framework ด้วย Struts2 | 📚 Docs | <a href="https://khone3.github.io/Struts2/" target="_blank">Read Guide ↗️</a> |
-| **🔹 jQuery** | รวมเทคนิคการเขียน JavaScript และการจัดการ DOM ด้วย jQuery | 📚 Docs | <a href="https://khone3.github.io/jQuery/" target="_blank">Read Guide ↗️</a> |
-| **💎 Metronic UI** | แหล่งรวมสไตล์และการใช้งาน Metronic UI Themes | 📚 Docs | <a href="https://khone3.github.io/Metronic-UI-Themes/" target="_blank">Read Guide ↗️</a> |
-| **🔗 Restful API** | เอกสารและระบบ API สำหรับจัดการข้อมูล | 📚 Docs | <a href="https://restful-api-ten.vercel.app" target="_blank">Read Docs ↗️</a> |
-| **📊 MongoDB Summarize** | สรุปเทคนิคและวิธีการใช้งาน MongoDB | 📚 Docs | <a href="https://mongo-db-summarize.vercel.app" target="_blank">Read Guide ↗️</a> |
-| **⚡ GitHub Actions** | คู่มือการทำ CI/CD และการจัดการ Workflow | 📚 Docs | <a href="https://khone3.github.io/GitHub-Actions/" target="_blank">Read Guide ↗️</a> |
-| **🅱️ Bootstrap 4** | สรุปพื้นฐานและการใช้งาน Bootstrap 4 Framework | 📚 Docs | <a href="https://khone3.github.io/Bootstrap-4/" target="_blank">Read Guide ↗️</a> |
+| **✨ Portfolio** | เว็บไซต์รวบรวมผลงาน ประวัติ และทักษะส่วนตัว | 🟢 Live | <a href="https://portfolio-gotjitag.vercel.app" target="_blank" rel="noopener noreferrer">Visit Site ↗️</a> |
+| **🏥 Smyth Clinic Demo** | ระบบจองคิวและจัดการข้อมูลคลินิก (Demo) | 🟢 Live | <a href="https://smyth-demo.vercel.app" target="_blank" rel="noopener noreferrer">View Demo ↗️</a> |
+| **🎲 Red or Black Gacha** | โปรเจกต์จำลองการจับใบดำใบแดงสุดลุ้นระทึก | 🟢 Live | <a href="https://red-or-black-gacha.vercel.app/" target="_blank" rel="noopener noreferrer">Try Luck ↗️</a> |
+| **🎮 Tic Tac Toe** | เกม XO ที่เล่นได้หลายคน พร้อมระบบปรับขนาดกระดานได้อิสระ | 🟢 Live | <a href="https://tic-tac-toe-customize.web.app/" target="_blank" rel="noopener noreferrer">Play Now ↗️</a> |
+| **📈 Growth Tracker** | ระบบติดตามความคืบหน้าและการเติบโตส่วนตัว | 🔴 Maintenance | <a href="https://growth-tracker-psi.vercel.app/" target="_blank" rel="noopener noreferrer">Link ↗️</a> |
+| **🍃 Spring** | คู่มือการพัฒนา Java Application ด้วย Spring Framework | 📚 Docs | <a href="https://khone3.github.io/Spring/" target="_blank" rel="noopener noreferrer">Read Guide ↗️</a> |
+| **❄️ Hibernate** | สรุปการใช้งาน ORM และการจัดการ Database ด้วย Hibernate | 📚 Docs | <a href="https://khone3.github.io/Hibernate/" target="_blank" rel="noopener noreferrer">Read Guide ↗️</a> |
+| **🏹 Struts2** | เรียนรู้โครงสร้างและการทำ Web Framework ด้วย Struts2 | 📚 Docs | <a href="https://khone3.github.io/Struts2/" target="_blank" rel="noopener noreferrer">Read Guide ↗️</a> |
+| **🔹 jQuery** | รวมเทคนิคการเขียน JavaScript และการจัดการ DOM ด้วย jQuery | 📚 Docs | <a href="https://khone3.github.io/jQuery/" target="_blank" rel="noopener noreferrer">Read Guide ↗️</a> |
+| **💎 Metronic UI** | แหล่งรวมสไตล์และการใช้งาน Metronic UI Themes | 📚 Docs | <a href="https://khone3.github.io/Metronic-UI-Themes/" target="_blank" rel="noopener noreferrer">Read Guide ↗️</a> |
+| **🔗 Restful API** | เอกสารและระบบ API สำหรับจัดการข้อมูล | 📚 Docs | <a href="https://restful-api-ten.vercel.app" target="_blank" rel="noopener noreferrer">Read Docs ↗️</a> |
+| **📊 MongoDB Summarize** | สรุปเทคนิคและวิธีการใช้งาน MongoDB | 📚 Docs | <a href="https://mongo-db-summarize.vercel.app" target="_blank" rel="noopener noreferrer">Read Guide ↗️</a> |
+| **⚡ GitHub Actions** | คู่มือการทำ CI/CD และการจัดการ Workflow | 📚 Docs | <a href="https://khone3.github.io/GitHub-Actions/" target="_blank" rel="noopener noreferrer">Read Guide ↗️</a> |
+| **🅱️ Bootstrap 4** | สรุปพื้นฐานและการใช้งาน Bootstrap 4 Framework | 📚 Docs | <a href="https://khone3.github.io/Bootstrap-4/" target="_blank" rel="noopener noreferrer">Read Guide ↗️</a> |
 
 ---
 
@@ -49,8 +49,8 @@
 ## 📱 Connect with Me
 หากคุณสนใจร่วมงานหรืออยากแลกเปลี่ยนความรู้เรื่องโค้ด ติดต่อผมได้ที่นี่ครับ:
 
-<a href="https://www.instagram.com/gotjitag/" target="_blank">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
-<a href="https://portfolio-gotjitag.vercel.app" target="_blank">![Portfolio](https://img.shields.io/badge/My%20Portfolio-000?style=for-the-badge&logo=vercel)</a>
+<a href="https://www.instagram.com/gotjitag/" target="_blank" rel="noopener noreferrer">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
+<a href="https://portfolio-gotjitag.vercel.app" target="_blank" rel="noopener noreferrer">![Portfolio](https://img.shields.io/badge/My%20Portfolio-000?style=for-the-badge&logo=vercel)</a>
 
 ---
 *Last updated: 2026-04-28*
