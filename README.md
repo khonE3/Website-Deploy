@@ -33,16 +33,16 @@
 ## 🛠️ Tech Stack & Skills
 เทคโนโลยีที่ใช้ในการขับเคลื่อนโปรเจกต์เหล่านี้:
 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232d.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511f2.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+<a href="https://nextjs.org" target="_blank" rel="noopener noreferrer">![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)</a>
+<a href="https://react.dev" target="_blank" rel="noopener noreferrer">![React](https://img.shields.io/badge/react-%2320232d.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)</a>
+<a href="https://bun.sh" target="_blank" rel="noopener noreferrer">![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)</a>
+<a href="https://nodejs.org" target="_blank" rel="noopener noreferrer">![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)</a>
+<a href="https://spring.io" target="_blank" rel="noopener noreferrer">![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)</a>
+<a href="https://hibernate.org" target="_blank" rel="noopener noreferrer">![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)</a>
+<a href="https://jquery.com" target="_blank" rel="noopener noreferrer">![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)</a>
+<a href="https://getbootstrap.com/docs/4.0/" target="_blank" rel="noopener noreferrer">![Bootstrap](https://img.shields.io/badge/bootstrap-%238511f2.svg?style=for-the-badge&logo=bootstrap&logoColor=white)</a>
+<a href="https://www.mongodb.com" target="_blank" rel="noopener noreferrer">![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)</a>
+<a href="https://github.com/features/actions" target="_blank" rel="noopener noreferrer">![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)</a>
 
 ---
 
