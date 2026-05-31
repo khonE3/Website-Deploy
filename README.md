@@ -16,7 +16,7 @@
 | **✨ Portfolio** | เว็บไซต์รวบรวมผลงาน ประวัติ และทักษะส่วนตัว | 🟢 Live | <a href="https://portfolio-gotjitag.vercel.app" target="_blank" rel="noopener noreferrer">Visit Site ↗️</a> |
 | **🏥 Smyth Clinic Demo** | ระบบจองคิวและจัดการข้อมูลคลินิก (Demo) | 🟢 Live | <a href="https://smyth-demo.vercel.app" target="_blank" rel="noopener noreferrer">View Demo ↗️</a> |
 | **🎲 Red or Black Gacha** | โปรเจกต์จำลองการจับใบดำใบแดงสุดลุ้นระทึก | 🟢 Live | <a href="https://red-or-black-gacha.vercel.app/" target="_blank" rel="noopener noreferrer">Try Luck ↗️</a> |
-| **🎮 Tic Tac Toe** | เกม XO ที่เล่นได้หลายคน พร้อมระบบปรับขนาดกระดานได้อิสระ | 🟢 Live | <a href="https://tic-tac-toe-customize.web.app/" target="_blank" rel="noopener noreferrer">Play Now ↗️</a> |
+| **🎮 Poly Toe** | เกม XO หลากหลายรูปแบบ พร้อมฟีเจอร์ปรับแต่งและระบบที่ท้าทายขึ้น | 🟢 Live | <a href="https://poly-toe.vercel.app/" target="_blank" rel="noopener noreferrer">Play Now ↗️</a> |
 | **📈 Growth Tracker** | ระบบติดตามความคืบหน้าและการเติบโตส่วนตัว | 🔴 Maintenance | <a href="https://growth-tracker-psi.vercel.app/" target="_blank" rel="noopener noreferrer">Link ↗️</a> |
 | **🍃 Spring** | คู่มือการพัฒนา Java Application ด้วย Spring Framework | 📚 Docs | <a href="https://khone3.github.io/Spring/" target="_blank" rel="noopener noreferrer">Read Guide ↗️</a> |
 | **❄️ Hibernate** | สรุปการใช้งาน ORM และการจัดการ Database ด้วย Hibernate | 📚 Docs | <a href="https://khone3.github.io/Hibernate/" target="_blank" rel="noopener noreferrer">Read Guide ↗️</a> |
@@ -53,4 +53,4 @@
 <a href="https://portfolio-gotjitag.vercel.app" target="_blank" rel="noopener noreferrer">![Portfolio](https://img.shields.io/badge/My%20Portfolio-000?style=for-the-badge&logo=vercel)</a>
 
 ---
-*Last updated: 2026-04-28*
+*Last updated: 2026-05-31*
